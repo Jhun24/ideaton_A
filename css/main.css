@@ -243,6 +243,17 @@ body{
     padding-top:15px;
 }
 
+.content > .sidebar-box > .sidebar > .sidebar-content > ul > a{
+    text-decoration: none;
+}
+
+.content > .sidebar-box > .sidebar > .sidebar-content > ul > a > li{
+    font-size:16px;
+    margin-left:-10px;
+    line-height:40px;
+    color:black;
+}
+
 .content > .sidebar-box > .sidebar > .sidebar-content > ul > li{
     font-size:16px;
     margin-left:-10px;
